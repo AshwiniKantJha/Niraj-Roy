@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♂️ Myself Niraj Roy
 
- Visit - https://nirajRoy.netlify.app 
+💌 Visit - https://nirajRoy.netlify.app 
 
 
 - 🔭 I’m currently working on an AI based ChatBot
@@ -19,7 +19,6 @@
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj-Roy&theme=highcontrast&show_icons=true)
 
 
-![](https://komarev.com/ghpvc/?username=Niraj-Roy&color=brightgreen)
 
 
 <p align="center">
@@ -43,5 +42,7 @@
 [2]: https://www.facebook.com/kumariasha.yadav.1
 [3]: http://www.github.com/Niraj-Roy
 
+
+![](https://komarev.com/ghpvc/?username=Niraj-Roy&color=brightgreen)
 
 </p>
