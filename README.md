@@ -1,6 +1,6 @@
 ### Hi there 🙋🏻‍♂️ Myself Niraj Roy
 
- 🌐 Https://nirajRoy.netlify.app 🌐
+ Visit - https://nirajRoy.netlify.app 
 
 
 - 🔭 I’m currently working on an AI based ChatBot
