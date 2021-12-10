@@ -16,3 +16,6 @@
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj-Roy&theme=highcontrast&show_icons=true)
 
 
+
+
+![Visitor Count](https://profile-counter.glitch.me/{Niraj-Roy}/count.svg)
