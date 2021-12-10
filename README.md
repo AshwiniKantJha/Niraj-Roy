@@ -22,9 +22,23 @@
 <p align="center">
   <i>Let's connect and chat! Feel free to reach me anytime ! 🥰</i>
 
-  <p align="center">
-    <a href="https://instagram.com/_oye_niraj" alt="Instagram"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
+ <br>
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png 
+[2.1]: http://i.imgur.com/P3YfQoD.png 
+[3.1]: http://i.imgur.com/0o48UoR.png 
+
+
+[1]: http://www.twitter.com/royniraj404
+[2]: https://www.facebook.com/kumariasha.yadav.1
+[3]: http://www.github.com/Niraj-Roy
+
+
+</p>
