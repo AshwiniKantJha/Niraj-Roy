@@ -1,10 +1,13 @@
 ### Hi there 🙋🏻‍♂️ Myself Niraj Roy
 
+ 🌐 Https://nirajRoy.netlify.app 🌐
+
 
 - 🔭 I’m currently working on an AI based ChatBot
 - 🌱 I’m currently learning JavaScript & Python
 - 🥰 Your suggestions are always welcomed :)
-- 💬 Ask me about anything [here](https://instagram.com/_oye_niraj)
+- 💬 Ask me about anything here - [Instagram](https://instagram.com/_oye_niraj)
+      Or mail me at royniraj404@gmail.com
 - ⚡ Fun fact: I am still Newbie 😂
 
 
