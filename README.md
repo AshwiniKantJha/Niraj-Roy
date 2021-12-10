@@ -6,3 +6,5 @@
 - 💬 Ask me about anything [here](https://instagram.com/_oye_niraj)
 - ⚡ Fun fact: I am still Newbie 😂
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Niraj-Roy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
