@@ -13,7 +13,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIRAJ-ROY)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niraj-Roy&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj-Roy&theme=highcontrast&show_icons=true)
