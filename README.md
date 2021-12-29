@@ -1,9 +1,8 @@
-### Hi there 🙋🏻‍♂️ Myself Niraj Roy
+<p align="center"><img src="https://github.com/Niraj-Roy/Niraj-Roy/blob/main/39998-web-development.gif"=alt"bt">
+<br>
+ <H2>Hi there 🙋🏻‍♂️ Myself  Niraj Roy </H2>
 
-<p align="center"><img src="https://github.com/rixon-cochi/rixon-cochi/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
-
-💌 Visit - https://nirajRoy.netlify.app 
-
+<H3>💌 Visit - https://nirajRoy.netlify.app</h3>
 
 - 🔭 I’m currently working on an AI based ChatBot
 - 🌱 I’m currently learning JavaScript & Python
