@@ -1,5 +1,7 @@
 ### Hi there 🙋🏻‍♂️ Myself Niraj Roy
 
+<p align="center"><img src="https://github.com/rixon-cochi/rixon-cochi/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
+
 💌 Visit - https://nirajRoy.netlify.app 
 
 
