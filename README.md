@@ -12,8 +12,7 @@
 - ⚡ Fun fact: I am still Newbie 😂
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Roy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Roy&layout=compact)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niraj-Roy&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -36,4 +35,5 @@
   </p>
 
 
+  
 </p>
