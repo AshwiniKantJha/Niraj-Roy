@@ -1,15 +1,21 @@
 <p align="center"><img src="https://github.com/Niraj-Roy/Niraj-Roy/blob/main/39998-web-development.gif"=alt"bt">
 <br>
- <H2>Hi there 🙋🏻‍♂️ Myself  Niraj Roy </H2>
+<hr>
 
-<H3>💌 Visit - https://nirajRoy.netlify.app</h3>
+# Hi there 🙋🏻‍♂️ Myself  Niraj Roy 
 
-- 🔭 I’m currently working on an AI based ChatBot
-- 🌱 I’m currently learning JavaScript & Python
-- 🥰 Your suggestions are always welcomed :)
-- 💬 Ask me about anything here - [Instagram](https://instagram.com/_oye_niraj)
+<h2>
+
+` 💌 Visit ` - https://nirajRoy.netlify.app
+
+- 🔭 I’m currently working on an ` AI based ChatBot `
+- 🌱 I’m currently learning ` JavaScript & Python `
+- 🥰 Your ` suggestions ` are always welcomed :)
+- 💬 ` Ask me ` about anything here - [Instagram](https://instagram.com/_oye_niraj)
       Or mail me at royniraj404@gmail.com
-- ⚡ Fun fact: I am still Newbie 😂
+- ⚡ Fun fact: I am still ` Newbie ` 😂
+
+</h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Roy&layout=compact)
