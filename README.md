@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on an ` AI based ChatBot `
 - 🌱 I’m currently learning ` JavaScript & Python `
+- 😌 Pronouns - He/Him
 - 🥰 Your ` suggestions ` are always welcomed :)
 - 💬 ` Ask me ` about anything here - [Instagram](https://instagram.com/_oye_niraj)
       Or mail me at royniraj404@gmail.com
@@ -25,9 +26,14 @@
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj-Roy&theme=highcontrast&show_icons=true)
 
 
+
+<div align="center"> 
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Niraj-Roy&theme=react-dark">
+</div>
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=Niraj-Roy&color=brightgreen)
-
-
 
 <p align="center">
   <i>Let's connect and chat! Feel free to reach me anytime ! 🥰</i>
